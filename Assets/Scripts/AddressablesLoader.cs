@@ -50,12 +50,7 @@ namespace AddressablesTest
                 }
             }
         }
-
-        private void Start()
-        {
-            DontDestroyOnLoad(gameObject);
-        }
-
+        
         public void ToggleLoading()
         {
             if (loadRoutine != null)
