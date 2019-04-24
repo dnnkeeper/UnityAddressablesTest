@@ -1,6 +1,6 @@
 # UnityAddressablesTest
 
-This project contains two example scripts for loading remote unity addressable assets and scenes. 
+This project contains two example scripts (AddressableLoader and AddressableSceneLoader) for loading remote unity addressable assets and scenes. 
 
 Scripts check if addressable asset is available using Addressables.LoadResourceLocations(key).
 
